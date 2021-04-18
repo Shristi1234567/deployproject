@@ -1,0 +1,1 @@
+npm install -D babel-eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y eslint-plugin-import
